@@ -17,7 +17,7 @@ export function Accuracy() {
     className="ml-10 p-5 mt-6 w-96 shadow-xl rounded-md bg-purple-200 text-black">
       <CardBody className="flex flex-col gap-4 h-full justify-center">
         <Typography className="text-center">
-          Fair value of the property will be <span className="font-bold text-black text-lg">₹16535</span> per Are(s)
+          Fair value of the property is <span className="font-bold text-black text-lg">₹16535</span> per Are(s)
         </Typography>
       </CardBody>
     </motion.div>

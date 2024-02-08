@@ -1,0 +1,72 @@
+[
+    {
+      "fair_value": 16368,
+      "land_type": "Wet land",
+      "market_value": 160565.2759
+    },
+    {
+      "fair_value": 66000,
+      "land_type": "Residential Plot",
+      "market_value": 134864.8649
+    },
+    {
+      "fair_value": 95040,
+      "land_type": "Residential Plot with NH/PWD road access",
+      "market_value": 91666.66667
+    },
+    {
+      "fair_value": 71280,
+      "land_type": "Residential Plot without vehicular access",
+      "market_value": 188679.2453
+    },
+    {
+      "fair_value": 66000,
+      "land_type": "Residential Plot without vehicular access",
+      "market_value": 163934.4262
+    },
+    {
+      "fair_value": 105600,
+      "land_type": "Residential Plot without vehicular access",
+      "market_value": 53003.53357
+    },
+    {
+      "fair_value": 147840,
+      "land_type": "Residential Plot with Corp./Mun./Panch. road access",
+      "market_value": 154454.023
+    },
+    {
+      "fair_value": 84480,
+      "land_type": "Residential Plot without vehicular access",
+      "market_value": 379858.6572
+    },
+    {
+      "fair_value": 15840,
+      "land_type": "Wet land",
+      "market_value": 1363636.364
+    },
+    {
+      "fair_value": 792000,
+      "land_type": "Commercially important Plot",
+      "market_value": 169120.4106
+    },
+    {
+      "fair_value": 71280,
+      "land_type": "Residential Plot without vehicular access",
+      "market_value": 213878.327
+    },
+    {
+      "fair_value": 100320,
+      "land_type": "Residential Plot with Corp./Mun./Panch. road access",
+      "market_value": 16666.66667
+    },
+    {
+      "fair_value": 71280,
+      "land_type": "Residential Plot without vehicular access",
+      "market_value": 220679.0123
+    },
+    {
+      "fair_value": 66000,
+      "land_type": "Residential Plot without vehicular access",
+      "market_value": 324297.5207
+    } 
+  ]
